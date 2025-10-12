@@ -3,6 +3,7 @@ A web-based application designed to centralize and streamline healthcare resourc
 ---
 
 Features
+
 Centralized database for hospitals, doctors, and medicines
 
 Real-time updates on availability and schedules
@@ -17,26 +18,22 @@ Search and filter functionality for quick navigation
 ---
 
 Modules
+
 Admin Module
 Add/update hospital details
-
 Manage doctor profiles
-
 Maintain medicine inventory
-
 User Module
 Search hospitals by location/specialty
-
 View doctor availability
-
 Check medicine stock
-
 ---
 
 Tech Stack
----
+
 
 Layer	Technology Used
+
 Frontend	HTML5, CSS3, JavaScript
 Backend	Java (Java 8.1)
 Database	MySQL
@@ -56,5 +53,6 @@ Screenshots
 ![Doctor Details](image-2.png)
 
 ![User Login](image-3.png)
+
 
 
