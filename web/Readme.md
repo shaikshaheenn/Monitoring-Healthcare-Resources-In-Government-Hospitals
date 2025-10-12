@@ -34,6 +34,8 @@ Check medicine stock
 ---
 
 Tech Stack
+---
+
 Layer	Technology Used
 Frontend	HTML5, CSS3, JavaScript
 Backend	Java (Java 8.1)
@@ -54,4 +56,5 @@ Screenshots
 ![Doctor Details](image-2.png)
 
 ![User Login](image-3.png)
+
 
