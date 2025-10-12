@@ -15,10 +15,10 @@ User-friendly interface for public access
 Search and filter functionality for quick navigation
 
 
----
+
 
 Modules
-
+---
 Admin Module
 Add/update hospital details
 Manage doctor profiles
@@ -27,13 +27,12 @@ User Module
 Search hospitals by location/specialty
 View doctor availability
 Check medicine stock
----
 
 Tech Stack
 
 
 Layer	Technology Used
-
+---
 Frontend	HTML5, CSS3, JavaScript
 Backend	Java (Java 8.1)
 Database	MySQL
@@ -53,6 +52,7 @@ Screenshots
 ![Doctor Details](image-2.png)
 
 ![User Login](image-3.png)
+
 
 
 
